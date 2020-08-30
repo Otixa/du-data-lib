@@ -235,8 +235,8 @@ Planets = {
   },
   {
     Name= "Talemai",
-    AtmosphericAltitude= 18.0,
-    AtmosphericDensityAboveSurface= 0.0,
+    AtmosphericAltitude= 8.0,
+    AtmosphericDensityAboveSurface= 0.88,
     AverageSurfaceAltitude= 0.0,
     Radius= 58000.00072806234,
     Gravity= 4.553,
