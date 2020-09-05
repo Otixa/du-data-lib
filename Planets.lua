@@ -157,9 +157,9 @@ Planets = {
   },
   {
     Name= "Sinnen",
-    AtmosphericAltitude= 0.0,
-    AtmosphericDensityAboveSurface= 0.0,
-    AverageSurfaceAltitude= 0.0,
+    AtmosphericAltitude= 9000,
+    AtmosphericDensityAboveSurface= 0.9,
+    AverageSurfaceAltitude= 300,
     Radius= 55000.00069128479,
     Gravity= 4.3175,
     Position= {
@@ -183,9 +183,9 @@ Planets = {
   },
   {
     Name= "Feli",
-    AtmosphericAltitude= 53.0,
-    AtmosphericDensityAboveSurface= 0.0,
-    AverageSurfaceAltitude= 0.0,
+    AtmosphericAltitude= 90.0,
+    AtmosphericDensityAboveSurface= 0.55,
+    AverageSurfaceAltitude= 18.2,
     Radius= 60000.000888818664,
     Gravity= 4.71,
     Position= {
@@ -275,7 +275,7 @@ Planets = {
   {
     Name= "Thades",
     AtmosphericAltitude= 20.2,
-    AtmosphericDensityAboveSurface= 11.25,
+    AtmosphericDensityAboveSurface= 0.36,
     AverageSurfaceAltitude= 13.9,
     Radius= 56000.00145041993,
     Gravity= 4.867,
@@ -371,16 +371,16 @@ Planets = {
     Radius= 9999.999978371172,
     Gravity= 1.66667,
     Position= {
-      17465536.0,
-      22665536.0,
-      -34464.0
+      17448125.477,
+      22966861.116,
+      143083.868
     }
   },
   {
     Name= "Madis",
     AtmosphericAltitude= 6.7,
-    AtmosphericDensityAboveSurface= 0.0,
-    AverageSurfaceAltitude= 0.0,
+    AtmosphericDensityAboveSurface= 0.87,
+    AverageSurfaceAltitude= 700,
     Radius= 44999.99930849182,
     Gravity= 3.5325,
     Position= {
