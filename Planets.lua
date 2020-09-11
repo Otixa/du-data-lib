@@ -274,9 +274,9 @@ Planets = {
   },
   {
     Name= "Thades",
-    AtmosphericAltitude= 20.2,
+    AtmosphericAltitude= 20200,
     AtmosphericDensityAboveSurface= 0.36,
-    AverageSurfaceAltitude= 13.9,
+    AverageSurfaceAltitude= 13600,
     Radius= 56000.00145041993,
     Gravity= 4.867,
     Position= {
