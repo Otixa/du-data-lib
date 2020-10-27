@@ -1,4 +1,5 @@
---require Fuels.lua
+--@class FuelTanks
+--@require Fuels
 
 FuelTanks = {
         Space = {

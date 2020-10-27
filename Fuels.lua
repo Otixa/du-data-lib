@@ -1,3 +1,5 @@
+--@class Fuels
+
 Fuels = {
     --Mass in kg/L
     Kergon = {Name="Kergon", Mass=6},

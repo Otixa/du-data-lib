@@ -1,3 +1,6 @@
+--@class Engines
+--@require Fuels
+
 Engines = {
     SpaceEngineExtraSmall = {Name="Space Engine XS", MaxThrust = 20000, FuelType=Fuels.Kergon},
     SpaceEngineSmall = {Name="Space Engine S", MaxThrust = 200000, FuelType=Fuels.Kergon},

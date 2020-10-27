@@ -1,3 +1,5 @@
+--@class Planets
+
 Planets = {
   {
     Name= "Feli Moon 1",
