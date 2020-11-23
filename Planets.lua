@@ -1,16 +1,17 @@
 Planets = {
-    {
+    [3] = {
+        _key = 3,
         SystemID = 0,
         Name = "Thades",
         Position = {
-            Z = 65536,
-            X = 29165536,
-            Y = 10865536
+            z = 65536,
+            x = 29165536,
+            y = 10865536
         },
         OriginPosition = {
-            Z = 1,
-            X = 29100000,
-            Y = 10800001
+            z = 1,
+            x = 29100000,
+            y = 10800001
         },
         Radius = 49000,
         AtmosphereRadius = 62600,
@@ -32,18 +33,19 @@ Planets = {
         Territories = 38882,
         CoreSize = "PM"
     },
-    {
+    [4] = {
+        _key = 4,
         SystemID = 0,
         Name = "Talemai",
         Position = {
-            Z = 465536,
-            X = -13234464,
-            Y = 55765536
+            z = 465536,
+            x = -13234464,
+            y = 55765536
         },
         OriginPosition = {
-            Z = 400001,
-            X = -13299999,
-            Y = 55700000
+            z = 400001,
+            x = -13299999,
+            y = 55700000
         },
         Radius = 57500,
         AtmosphereRadius = 65450,
@@ -66,18 +68,19 @@ Planets = {
         Territories = 52922,
         CoreSize = "PM"
     },
-    {
+    [5] = {
+        _key = 5,
         SystemID = 0,
         Name = "Feli",
         Position = {
-            Z = -48934464,
-            X = -43534464,
-            Y = 22565536
+            z = -48934464,
+            x = -43534464,
+            y = 22565536
         },
         OriginPosition = {
-            Z = -49000000,
-            X = -43600000,
-            Y = 22500000
+            z = -49000000,
+            x = -43600000,
+            y = 22500000
         },
         Radius = 41800,
         AtmosphereRadius = 131800,
@@ -100,18 +103,19 @@ Planets = {
         Territories = 27002,
         CoreSize = "PS"
     },
-    {
+    [6] = {
+        _key = 6,
         SystemID = 0,
         Name = "Sicari",
         Position = {
-            Z = 52065536,
-            X = 52765536,
-            Y = 27165538
+            z = 52065536,
+            x = 52765536,
+            y = 27165538
         },
         OriginPosition = {
-            Z = 52000000,
-            X = 52700000,
-            Y = 27100004
+            z = 52000000,
+            x = 52700000,
+            y = 27100004
         },
         Radius = 51100,
         AtmosphereRadius = 51000,
@@ -134,18 +138,19 @@ Planets = {
         Territories = 41072,
         CoreSize = "PM"
     },
-    {
+    [7] = {
+        _key = 7,
         SystemID = 0,
         Name = "Sinnen",
         Position = {
-            Z = 58165536,
-            X = 58665536,
-            Y = 29665536
+            z = 58165536,
+            x = 58665536,
+            y = 29665536
         },
         OriginPosition = {
-            Z = 58100000,
-            X = 58600000,
-            Y = 29600000
+            z = 58100000,
+            x = 58600000,
+            y = 29600000
         },
         Radius = 54950,
         AtmosphereRadius = 64000,
@@ -168,18 +173,19 @@ Planets = {
         Territories = 48002,
         CoreSize = "PS"
     },
-    {
+    [9] = {
+        _key = 9,
         SystemID = 0,
         Name = "Jago",
         Position = {
-            Z = -3634464,
-            X = -94134464,
-            Y = 12765534
+            z = -3634464,
+            x = -94134464,
+            y = 12765534
         },
         OriginPosition = {
-            Z = -3699999,
-            X = -94200000,
-            Y = 12699999
+            z = -3699999,
+            x = -94200000,
+            y = 12699999
         },
         Radius = 61590,
         AtmosphereRadius = 71500,
@@ -204,18 +210,19 @@ Planets = {
         Territories = 60752,
         CoreSize = "PXL"
     },
-    {
+    [26] = {
+        _key = 26,
         SystemID = 0,
         Name = "Sanctuary",
         Position = {
-            Z = -285074,
-            X = -1404835,
-            Y = 562655
+            z = -285074,
+            x = -1404835,
+            y = 562655
         },
         OriginPosition = {
-            Z = -350609,
-            X = -1470370,
-            Y = 497120
+            z = -350609,
+            x = -1470370,
+            y = 497120
         },
         Radius = 83400,
         AtmosphereRadius = 88400,
@@ -230,18 +237,19 @@ Planets = {
         Territories = 111632,
         CoreSize = "ML"
     },
-    {
+    [100] = {
+        _key = 100,
         SystemID = 0,
         Name = "Lacobus",
         Position = {
-            Z = -934462,
-            X = 98865536,
-            Y = -13534464
+            z = -934462,
+            x = 98865536,
+            y = -13534464
         },
         OriginPosition = {
-            Z = -999997,
-            X = 98800000,
-            Y = -13599999
+            z = -999997,
+            x = 98800000,
+            y = -13599999
         },
         Radius = 55650,
         AtmosphereRadius = 74000,
@@ -265,18 +273,19 @@ Planets = {
         Territories = 50432,
         CoreSize = "PM"
     },
-    {
+    [120] = {
+        _key = 120,
         SystemID = 0,
         Name = "Ion",
         Position = {
-            Z = -934462,
-            X = 2865536.8,
-            Y = -99034464
+            z = -934462,
+            x = 2865536.8,
+            y = -99034464
         },
         OriginPosition = {
-            Z = -999997,
-            X = 2800001.8,
-            Y = -99100000
+            z = -999997,
+            x = 2800001.8,
+            y = -99100000
         },
         Radius = 44950,
         AtmosphereRadius = 49350,
@@ -300,18 +309,19 @@ Planets = {
         Territories = 32672,
         CoreSize = "PXS"
     },
-    {
+    [110] = {
+        _key = 110,
         SystemID = 0,
         Name = "Symeon",
         Position = {
-            Z = -934464.3,
-            X = 14165536,
-            Y = -85634464
+            z = -934464.3,
+            x = 14165536,
+            y = -85634464
         },
         OriginPosition = {
-            Z = -999999.3,
-            X = 14100001,
-            Y = -85700000
+            z = -999999.3,
+            x = 14100001,
+            y = -85700000
         },
         Radius = 49050,
         AtmosphereRadius = 55050,
@@ -335,18 +345,19 @@ Planets = {
         Territories = 38882,
         CoreSize = "PS"
     },
-    {
+    [8] = {
+        _key = 8,
         SystemID = 0,
         Name = "Teoma",
         Position = {
-            Z = -934463.94,
-            X = 80865536,
-            Y = 54665536
+            z = -934463.94,
+            x = 80865536,
+            y = 54665536
         },
         OriginPosition = {
-            Z = -999998.94,
-            X = 80800000,
-            Y = 54600000
+            z = -999998.94,
+            x = 80800000,
+            y = 54600000
         },
         Radius = 62000,
         AtmosphereRadius = 67750,
@@ -370,18 +381,19 @@ Planets = {
         Territories = 60752,
         CoreSize = "PL"
     },
-    {
+    [10] = {
+        _key = 10,
         SystemID = 0,
         Name = "Madis Moon 1",
         Position = {
-            Z = 143078.81,
-            X = 17448118,
-            Y = 22966846
+            z = 143078.81,
+            x = 17448118,
+            y = 22966846
         },
         OriginPosition = {
-            Z = 126694.81,
-            X = 17431734,
-            Y = 22950462
+            z = 126694.81,
+            x = 17431734,
+            y = 22950462
         },
         Radius = 10000,
         AtmosphereRadius = 0,
@@ -403,18 +415,19 @@ Planets = {
         Territories = 1472,
         CoreSize = "MXL"
     },
-    {
+    [11] = {
+        _key = 11,
         SystemID = 0,
         Name = "Madis Moon 2",
         Position = {
-            Z = -214962.81,
-            X = 17194626,
-            Y = 22243634
+            z = -214962.81,
+            x = 17194626,
+            y = 22243634
         },
         OriginPosition = {
-            Z = -231346.81,
-            X = 17178242,
-            Y = 22227250
+            z = -231346.81,
+            x = 17178242,
+            y = 22227250
         },
         Radius = 12000,
         AtmosphereRadius = 0,
@@ -437,18 +450,19 @@ Planets = {
         Territories = 1922,
         CoreSize = "MS"
     },
-    {
+    [12] = {
+        _key = 12,
         SystemID = 0,
         Name = "Madis Moon 3",
         Position = {
-            Z = -309990,
-            X = 17520614,
-            Y = 22184730
+            z = -309990,
+            x = 17520614,
+            y = 22184730
         },
         OriginPosition = {
-            Z = -326374,
-            X = 17504230,
-            Y = 22168346
+            z = -326374,
+            x = 17504230,
+            y = 22168346
         },
         Radius = 15000,
         AtmosphereRadius = 0,
@@ -470,18 +484,19 @@ Planets = {
         Territories = 3632,
         CoreSize = "MS"
     },
-    {
+    [30] = {
+        _key = 30,
         SystemID = 0,
         Name = "Thades Moon 1",
         Position = {
-            Z = 433858.2,
-            X = 29214402,
-            Y = 10907081
+            z = 433858.2,
+            x = 29214402,
+            y = 10907081
         },
         OriginPosition = {
-            Z = 417474.2,
-            X = 29198018,
-            Y = 10890697
+            z = 417474.2,
+            x = 29198018,
+            y = 10890697
         },
         Radius = 14000,
         AtmosphereRadius = 0,
@@ -503,18 +518,19 @@ Planets = {
         Territories = 3002,
         CoreSize = "MM"
     },
-    {
+    [31] = {
+        _key = 31,
         SystemID = 0,
         Name = "Thades Moon 2",
         Position = {
-            Z = 19554.13,
-            X = 29404192,
-            Y = 10432768
+            z = 19554.13,
+            x = 29404192,
+            y = 10432768
         },
         OriginPosition = {
-            Z = 3170.130000000001,
-            X = 29387808,
-            Y = 10416384
+            z = 3170.130000000001,
+            x = 29387808,
+            y = 10416384
         },
         Radius = 15000,
         AtmosphereRadius = 0,
@@ -536,18 +552,19 @@ Planets = {
         Territories = 3632,
         CoreSize = "MM"
     },
-    {
+    [40] = {
+        _key = 40,
         SystemID = 0,
         Name = "Talemai Moon 2",
         Position = {
-            Z = 769838.6,
-            X = -13503090,
-            Y = 55594324
+            z = 769838.6,
+            x = -13503090,
+            y = 55594324
         },
         OriginPosition = {
-            Z = 753454.6,
-            X = -13519474,
-            Y = 55577940
+            z = 753454.6,
+            x = -13519474,
+            y = 55577940
         },
         Radius = 12000,
         AtmosphereRadius = 0,
@@ -569,18 +586,19 @@ Planets = {
         Territories = 1922,
         CoreSize = "MS"
     },
-    {
+    [41] = {
+        _key = 41,
         SystemID = 0,
         Name = "Talemai Moon 3",
         Position = {
-            Z = 325207.84,
-            X = -12800515,
-            Y = 55700260
+            z = 325207.84,
+            x = -12800515,
+            y = 55700260
         },
         OriginPosition = {
-            Z = 308823.84,
-            X = -12816899,
-            Y = 55683876
+            z = 308823.84,
+            x = -12816899,
+            y = 55683876
         },
         Radius = 11000,
         AtmosphereRadius = 0,
@@ -603,18 +621,19 @@ Planets = {
         Territories = 1922,
         CoreSize = "MXS"
     },
-    {
+    [42] = {
+        _key = 42,
         SystemID = 0,
         Name = "Talemai Moon 1",
         Position = {
-            Z = 740177.75,
-            X = -13058408,
-            Y = 55781856
+            z = 740177.75,
+            x = -13058408,
+            y = 55781856
         },
         OriginPosition = {
-            Z = 723793.75,
-            X = -13074792,
-            Y = 55765472
+            z = 723793.75,
+            x = -13074792,
+            y = 55765472
         },
         Radius = 15000,
         AtmosphereRadius = 0,
@@ -637,18 +656,19 @@ Planets = {
         Territories = 3632,
         CoreSize = "MM"
     },
-    {
+    [50] = {
+        _key = 50,
         SystemID = 0,
         Name = "Feli Moon 1",
         Position = {
-            Z = -48862384,
-            X = -43902840,
-            Y = 22261034
+            z = -48862384,
+            x = -43902840,
+            y = 22261034
         },
         OriginPosition = {
-            Z = -48878768,
-            X = -43919224,
-            Y = 22244650
+            z = -48878768,
+            x = -43919224,
+            y = 22244650
         },
         Radius = 14000,
         AtmosphereRadius = 0,
@@ -671,18 +691,19 @@ Planets = {
         Territories = 3002,
         CoreSize = "MS"
     },
-    {
+    [101] = {
+        _key = 101,
         SystemID = 0,
         Name = "Lacobus Moon 3",
         Position = {
-            Z = -647589.5,
-            X = 98905290,
-            Y = -13950921
+            z = -647589.5,
+            x = 98905290,
+            y = -13950921
         },
         OriginPosition = {
-            Z = -663973.5,
-            X = 98888906,
-            Y = -13967305
+            z = -663973.5,
+            x = 98888906,
+            y = -13967305
         },
         Radius = 15000,
         AtmosphereRadius = 0,
@@ -702,18 +723,19 @@ Planets = {
         Territories = 3632,
         CoreSize = "ML"
     },
-    {
+    [103] = {
+        _key = 103,
         SystemID = 0,
         Name = "Lacobus Moon 2",
         Position = {
-            Z = -1059341.4,
-            X = 99250050,
-            Y = -13629215
+            z = -1059341.4,
+            x = 99250050,
+            y = -13629215
         },
         OriginPosition = {
-            Z = -1075725.4,
-            X = 99233666,
-            Y = -13645599
+            z = -1075725.4,
+            x = 99233666,
+            y = -13645599
         },
         Radius = 14000,
         AtmosphereRadius = 0,
@@ -734,18 +756,19 @@ Planets = {
         Territories = 3002,
         CoreSize = "MM"
     },
-    {
+    [121] = {
+        _key = 121,
         SystemID = 0,
         Name = "Ion Moon 1",
         Position = {
-            Z = -1133582.8,
-            X = 2472916.8,
-            Y = -99133744
+            z = -1133582.8,
+            x = 2472916.8,
+            y = -99133744
         },
         OriginPosition = {
-            Z = -1149966.8,
-            X = 2456532.8,
-            Y = -99150128
+            z = -1149966.8,
+            x = 2456532.8,
+            y = -99150128
         },
         Radius = 11000,
         AtmosphereRadius = 0,
@@ -766,18 +789,19 @@ Planets = {
         Territories = 1922,
         CoreSize = "MXS"
     },
-    {
+    [122] = {
+        _key = 122,
         SystemID = 0,
         Name = "Ion Moon 2",
         Position = {
-            Z = -1378480.8,
-            X = 2995424.5,
-            Y = -99275010
+            z = -1378480.8,
+            x = 2995424.5,
+            y = -99275010
         },
         OriginPosition = {
-            Z = -1394864.8,
-            X = 2979040.5,
-            Y = -99291394
+            z = -1394864.8,
+            x = 2979040.5,
+            y = -99291394
         },
         Radius = 15000,
         AtmosphereRadius = 0,
@@ -799,18 +823,19 @@ Planets = {
         Territories = 3632,
         CoreSize = "MXS"
     },
-    {
+    [21] = {
+        _key = 21,
         SystemID = 0,
         Name = "Alioth Moon 1",
         Position = {
-            Z = 115524,
-            X = 457933,
-            Y = -1509011
+            z = 115524,
+            x = 457933,
+            y = -1509011
         },
         OriginPosition = {
-            Z = 82756,
-            X = 425165,
-            Y = -1541779
+            z = 82756,
+            x = 425165,
+            y = -1541779
         },
         Radius = 30000,
         AtmosphereRadius = 0,
@@ -831,18 +856,19 @@ Planets = {
         Territories = 14522,
         CoreSize = "MM"
     },
-    {
+    [22] = {
+        _key = 22,
         SystemID = 0,
         Name = "Alioth Moon 4",
         Position = {
-            Z = -411464,
-            X = -1692694,
-            Y = 729681
+            z = -411464,
+            x = -1692694,
+            y = 729681
         },
         OriginPosition = {
-            Z = -444232,
-            X = -1725462,
-            Y = 696913
+            z = -444232,
+            x = -1725462,
+            y = 696913
         },
         Radius = 30330,
         AtmosphereRadius = 0,
@@ -863,18 +889,19 @@ Planets = {
         Territories = 14522,
         CoreSize = "ML"
     },
-    {
+    [70] = {
+        _key = 70,
         SystemID = 0,
         Name = "Sinnen Moon 1",
         Position = {
-            Z = 57969448,
-            X = 58969616,
-            Y = 29797944
+            z = 57969448,
+            x = 58969616,
+            y = 29797944
         },
         OriginPosition = {
-            Z = 57936680,
-            X = 58936848,
-            Y = 29765176
+            z = 57936680,
+            x = 58936848,
+            y = 29765176
         },
         Radius = 17000,
         AtmosphereRadius = 0,
@@ -898,18 +925,19 @@ Planets = {
         Territories = 4322,
         CoreSize = "MS"
     },
-    {
+    [102] = {
+        _key = 102,
         SystemID = 0,
         Name = "Lacobus Moon 1",
         Position = {
-            Z = -926156.4,
-            X = 99180970,
-            Y = -13783862
+            z = -926156.4,
+            x = 99180970,
+            y = -13783862
         },
         OriginPosition = {
-            Z = -958924.4,
-            X = 99148202,
-            Y = -13816630
+            z = -958924.4,
+            x = 99148202,
+            y = -13816630
         },
         Radius = 18000,
         AtmosphereRadius = 0,
@@ -929,18 +957,19 @@ Planets = {
         Territories = 5072,
         CoreSize = "MXL"
     },
-    {
+    [2] = {
+        _key = 2,
         SystemID = 0,
         Name = "Alioth",
         Position = {
-            Z = -126303,
-            X = -8,
-            Y = -8
+            z = -126303,
+            x = -8,
+            y = -8
         },
         OriginPosition = {
-            Z = -257375,
-            X = -131080,
-            Y = -131080
+            z = -257375,
+            x = -131080,
+            y = -131080
         },
         Radius = 126067.8984375,
         AtmosphereRadius = 131768,
@@ -963,18 +992,19 @@ Planets = {
         Territories = 259472,
         CoreSize = "PM"
     },
-    {
+    [1] = {
+        _key = 1,
         SystemID = 0,
         Name = "Madis",
         Position = {
-            Z = -34464,
-            X = 17465536,
-            Y = 22665536
+            z = -34464,
+            x = 17465536,
+            y = 22665536
         },
         OriginPosition = {
-            Z = -99999,
-            X = 17400000,
-            Y = 22600000
+            z = -99999,
+            x = 17400000,
+            y = 22600000
         },
         Radius = 44300,
         AtmosphereRadius = 51700,
