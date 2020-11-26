@@ -1,3 +1,4 @@
+--@class Planets
 Planets = {
     [3] = {
         _key = 3,
